@@ -21,3 +21,17 @@ aside {
   border: 2px solid;
   padding: 16px;
 }
+a[href="One"] {
+  color: hotpink;
+  text-decoration: none;
+}
+a[href="One"]:hover {
+  text-decoration-line: underline;
+}
+a[href="Two"] {
+  color: black;
+}
+
+a[href="Two"]:hover {
+  text-decoration: none;
+}

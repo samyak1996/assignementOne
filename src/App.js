@@ -6,9 +6,9 @@ function App() {
     <article class="recipe">
       <h2>Chicken Vindaloo</h2>
       <p>
-        “Vindaloo” is a popular Indian <a href="">curry dish</a> that calls for
-        meat to be marinated in a highly flavorful spicy mixture with vinegar,
-        then quickly cooked up when you’re ready to eat.
+        “Vindaloo” is a popular Indian <a href="One">curry dish</a> that calls
+        for meat to be marinated in a highly flavorful spicy mixture with
+        vinegar, then quickly cooked up when you're ready to eat.
       </p>
       <p>
         While this dish has a long list of spices, most are quite common in the
@@ -17,11 +17,12 @@ function App() {
       </p>
       <aside>
         <p>
-          Quick warning:{" "}
+          Quick warning:
           <strong>
-            this recipe is <em>spicy</em>
+            this recipe is <em>spicy. </em>
           </strong>
-          . <a href="">Click here</a> for an alternative recipe with less heat.
+          <a href="Two">Click here </a>
+          for an alternative recipe with less heat.
         </p>
       </aside>
     </article>
